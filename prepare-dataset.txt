@@ -1,0 +1,3 @@
+Put dataset into models/done
+Splited it into 2 folders: images & labels
+Each one splitted into train & val
