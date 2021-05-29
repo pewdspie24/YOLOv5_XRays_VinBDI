@@ -1,0 +1,9 @@
+train: ../models/done/img/train/
+val: ../models/done/img/val
+# number of classes
+nc: 14
+
+# class names
+names: [ 'Aortic enlargement', 'Atelectasis', 'Calcification', 'Cardiomegaly', 'Consolidation', 'ILD', 'Infiltration', 'Lung Opacity', 'Nodule/Mass', 'Other lesion', 'Pleural effusion', 'Pleural thickening', 'Pneumothorax', 'Pulmonary fibrosis']
+
+
